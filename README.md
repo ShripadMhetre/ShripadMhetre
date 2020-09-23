@@ -3,8 +3,8 @@
 <br/>
 
 <p>
-<a href="https://www.linkedin.com/in/shripadmhetre/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ShripadMhetre-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/shripad_mhetre/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-shripad_mhetre-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.linkedin.com/in/shripadmhetre/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ShripadMhetre-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/shripad_mhetre/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-shripad_mhetre-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:shripadmhetre100@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shripadmhetre100@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
