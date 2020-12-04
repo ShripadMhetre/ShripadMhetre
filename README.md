@@ -17,17 +17,6 @@
 - 💬 &nbsp; Ask me about Web Development (MERN, Flask, LAMP), PWAs, Java Programming
 - 😄 &nbsp; Pronouns: He/Him
 - ⚡ &nbsp; Fun fact: Your musical taste does accurately tell me about you, including your politics :p
-<!--
-<h3>🛠 Tech Stack</h3>
-- 💻 &nbsp; JavaScript | Java | Python 
-- 🌐 &nbsp; HTML5 | CSS3 | ReactJS | Node.js | Bootstrap
-- 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Markdown | Selenium
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
-<h3> 🤝🏻 Reach me at </h3>
--->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 🔭 I’m currently working on -->
 
 <br/>
 
