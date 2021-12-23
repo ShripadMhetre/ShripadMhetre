@@ -11,10 +11,10 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🌐 &nbsp; Always exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Information Technology at College of Engineering Pune (COEP).
+- 🎓 &nbsp; B.Tech. in Information Technology from College of Engineering Pune (COEP).
 - 🌱 &nbsp; Currently learning about Systems Design and Cloud Architecture.
 - 👯 &nbsp; Looking to collaborate on real world full stack projects :)
-- 💬 &nbsp; Ask me about Web Development (MERN, Flask, LAMP), PWAs, Java Programming
+- 💬 &nbsp; Ask me about Web Development, MERN Stack, Next.js, JavaScript, Java Programming, etc.
 - 😄 &nbsp; Pronouns: He/Him
 - ⚡ &nbsp; Fun fact: Your musical taste does accurately tell me about you, including your politics :p
 
