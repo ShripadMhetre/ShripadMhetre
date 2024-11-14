@@ -12,11 +12,11 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🌐 &nbsp; Always exploring new technologies and developing software solutions.
+- 🌐 &nbsp; Engineering professional exploring the world of technology (to breadth & depth) and developing software solutions.
 - 🎓 &nbsp; B.Tech. in Information Technology from College of Engineering Pune (COEP).
-- 🌱 &nbsp; Currently learning about Systems Design and Cloud Architecture that actually scales.
-- 👯 &nbsp; Looking to collaborate on real world full stack projects :)
-- 💬 &nbsp; Ask me about Full-Stack Web Development, MERN Stack, Next.js, Spring Boot, JavaScript, Java, Golang etc.
+- 🌱 &nbsp; Currently learning about Build automation systems and Cloud Architecture that actually scales.
+- 👯 &nbsp; Open to collaborate on real world projects/ideas :)
+- 💬 &nbsp; Ask me about Building scalable systems, Micro-services architecture, Cloud, Full-Stack Development, Java, Golang etc.
 - 😄 &nbsp; Pronouns: He/Him
 - ⚡ &nbsp; Fun fact: Your musical taste does accurately tell me about you, including your politics :p
 
